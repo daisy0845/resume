@@ -204,6 +204,9 @@ h2.title span{
   line-height: 36px;
   padding-left: 20px;
 }
+.skills ul li a{
+  color: white; 
+}
 .work ul{
   border-left: 1px solid #999;
   margin-left: 20px;
